@@ -4,6 +4,6 @@ Site de lista de tarefas desenvolvido durante o curso de Typescript na Udemy + H
 
 # tecnologias utilizadas
 
--> React
--> Typescript
--> Node.js
+-> React <br>
+-> Typescript <br>
+-> Node.js <br>
